@@ -3,7 +3,7 @@
 ### :ok_woman: About Me
 - Hyein Seo
 
-<div align=center>
+<div align=left>
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyenee97@gmail.com)](mailto:hyenee97@gmail.com)
 [![Google scholar Badge](https://img.shields.io/badge/-Scholar-%234285F4?style=falt-square&logo=Google%20scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=Mh3vtlEAAAAJ/)](https://scholar.google.co.kr/citations?hl=ko&user=_RnSGKIAAAAJ)
