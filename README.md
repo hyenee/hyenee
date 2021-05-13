@@ -12,12 +12,14 @@
 
 ### :school: Education
 - Chungnam National University, Republic of Korea
-  - M.S in Computer Science and Engineering, 2020~
-  - B.S in Computer Science and Engineering, 2016~2020
+  - M.S in Computer Science and Engineering, 2020.03 ~ present
+  - B.S in Computer Science and Engineering, 2016.03 ~ 2020.02
 
 ### :purple_heart: Research Interests
 - Natural Language Processing
-- Sentence Generation
+  - Natural Language Understanding
+  - Text Generation
+  - Data Augmentation
 
 
 ### :computer: Languages and Tools
