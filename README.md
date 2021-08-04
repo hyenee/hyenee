@@ -1,5 +1,7 @@
 <div align=left>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=hyenee%20&fontSize=90&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62) 
+  
 ### :ok_woman: About Me
 - Hyein Seo
 
