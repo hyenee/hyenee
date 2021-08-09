@@ -26,8 +26,10 @@
 
 ### :computer: Languages and Tools
 <p align="left"> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.pytorchlightning.ai/" target="_blank"> <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/c99e2fe0d2bf713f35054eaa0d521ee7f6030786/docs/source/_static/images/icon.svg" alt="pytorch lightning" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 </p>
 
