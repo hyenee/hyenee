@@ -7,6 +7,7 @@
 
 <div align=left>
   
+[![Notion Badge](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white)](https://hyenee.notion.site/Hyein-Seo-058dc530ae1543d0bde4594a539628c4)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyenee97@gmail.com)](mailto:hyenee97@gmail.com)
 [![Google scholar Badge](https://img.shields.io/badge/-Scholar-%234285F4?style=falt-square&logo=Google%20scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=Mh3vtlEAAAAJ/)](https://scholar.google.co.kr/citations?hl=ko&user=_RnSGKIAAAAJ)
 
