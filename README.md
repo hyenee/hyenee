@@ -15,7 +15,9 @@
 
 ### :school: Education
 - Chungnam National University, Republic of Korea
-  - M.S in Computer Science and Engineering, 2020.03 ~ present
+  - Ph.D in Computer Science and Engineering, 2022.03 ~ Current
+    - [Intelligent Software Laboratory](http://isoft.cnu.ac.kr/)
+  - M.S in Computer Science and Engineering, 2020.03 ~ 2022.02
     - [Intelligent Software Laboratory](http://isoft.cnu.ac.kr/)
   - B.S in Computer Science and Engineering, 2016.03 ~ 2020.02
 
